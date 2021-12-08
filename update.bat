@@ -1,3 +1,2 @@
-set "upver=v0.7"
+set "upver=v0.8"
 set "upverlink=test"
-t
